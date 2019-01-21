@@ -1,0 +1,4 @@
+#Sun Jan 20 16:10:01 EST 2019
+base.0=/Users/jeremy/Documents/ASL2GO/asl_2_go/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

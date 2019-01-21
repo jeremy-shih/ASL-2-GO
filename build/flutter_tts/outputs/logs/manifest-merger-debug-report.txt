@@ -1,0 +1,21 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jeremy/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.2.3/android/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/jeremy/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.2.3/android/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/jeremy/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.2.3/android/src/main/AndroidManifest.xml:1:1-5:12
+	package
+		ADDED from /Users/jeremy/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.2.3/android/src/main/AndroidManifest.xml:2:3-38
+		INJECTED from /Users/jeremy/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.2.3/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeremy/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.2.3/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jeremy/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.2.3/android/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from /Users/jeremy/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.2.3/android/src/main/AndroidManifest.xml:4:3-72
+INJECTED from /Users/jeremy/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.2.3/android/src/main/AndroidManifest.xml:4:3-72
+INJECTED from /Users/jeremy/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.2.3/android/src/main/AndroidManifest.xml:4:3-72
+	android:targetSdkVersion
+		ADDED from /Users/jeremy/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.2.3/android/src/main/AndroidManifest.xml:4:40-69
+	android:minSdkVersion
+		ADDED from /Users/jeremy/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.2.3/android/src/main/AndroidManifest.xml:4:13-39
+		INJECTED from /Users/jeremy/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.2.3/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeremy/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-0.2.3/android/src/main/AndroidManifest.xml
